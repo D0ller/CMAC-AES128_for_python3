@@ -1,5 +1,17 @@
 #!/usr/bin/python3
 # -*- mode: python; coding: utf-8 -*
+
+"""
+auther  :   d0ller
+mail    :   fantasistadoller@gmail.com
+
+This Source Code is Public Domain.
+
+Please see and follow pycrypto Lisences.
+https://github.com/dlitz/pycrypto/blob/master/COPYRIGHT
+
+"""
+
 from Crypto.Cipher import AES
 from binascii import hexlify
 from math import ceil
